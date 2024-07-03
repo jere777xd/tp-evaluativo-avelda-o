@@ -8,7 +8,7 @@ import { Vehiculos } from 'src/app/models/vehiculos';
   styleUrls: ['./card.component.css']
 })
 export class CardComponent {
-  //PROPIEDAD PUBLICA (TIPO: ARRAY)
+  
   public info: Vehiculos[];
 
   constructor(){
